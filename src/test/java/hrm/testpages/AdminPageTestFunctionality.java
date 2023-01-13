@@ -21,6 +21,7 @@ public class AdminPageTestFunctionality extends baseclass {
 		System.out.println("Welcome to R-Testing Tools, Manual & Automation");
 		System.out.println("Welcome to R-Testing Tools, Manual & Automation");
 		System.out.println("Welcome to R-Testing Tools, Manual & Automation");
+		System.out.println("Welcome to R-Testing Tools, Manual & Automation");
 	}
 	@Test(priority = 1)
 	public void Vlaidate_validSendkeys() throws InterruptedException {
