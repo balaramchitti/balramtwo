@@ -32,6 +32,7 @@ public class AdminPageTestFunctionality extends baseclass {
 		Assert.assertEquals(actual, expec);
 	}
 	@Test(priority = 2)
+	
 	public void Vlaidate_AdminPage() throws InterruptedException {
 		AdminPageFunctionality.Validate_AdminpageText();
 		AdminPageFunctionality.Validate_Adminclick_Text();
